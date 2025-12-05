@@ -1,1 +1,1 @@
-Hola hdp, solo os digo que no tiene credenciales reales, ok?
+Hola hdp, solo te digo que no tiene credenciales reales, ok?
