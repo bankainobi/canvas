@@ -6,4 +6,5 @@ Si no eres un hdp, te digo como cambiar las credenciales.
 2. En las primeras líneas verás algo como esto:
    - Credenciales Admin General
    - Usuarios Privados
+
 Edítalos a tu gusto.
